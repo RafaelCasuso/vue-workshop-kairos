@@ -48,6 +48,7 @@
     "extract-text-webpack-plugin": "^3.0.0",
     "file-loader": "^1.1.4",
     "friendly-errors-webpack-plugin": "^1.6.1",
+    "geckodriver": "^1.10.0",
     "html-webpack-plugin": "^2.30.1",
     "jest": "^21.2.0",
     "nightwatch": "^0.9.12",
